@@ -9,3 +9,4 @@ Authors And Other Script Owners.
 
 LioK251 : Owner of Stand Upright Script (https://github.com/LioK251)
 
+For Executors : loadstring(game:HttpGet("https://raw.githubusercontent.com/DanceOfEternity/scripthub/main/"..game.PlaceId..".lua"))()
