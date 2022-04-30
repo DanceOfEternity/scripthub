@@ -5,6 +5,6 @@ You can also see it in the files of the project, which has a usage that calls th
 
 Authors And Other Script Owners.
 
-! DanceOfEternity#0001 : The Hub Creator And Scripter Of The Other Game Scripts.
+! DanceOfEternity#0001 : The Hub Creator And Scripter Of The Game Scripts.
 
 For Executors : loadstring(game:HttpGet("https://raw.githubusercontent.com/DanceOfEternity/scripthub/main/"..game.PlaceId..".lua"))()
