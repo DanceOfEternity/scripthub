@@ -7,6 +7,4 @@ Authors And Other Script Owners.
 
 ! DanceOfEternity#0001 : The Hub Creator And Scripter Of The Other Game Scripts.
 
-LioK251 : Owner of **OLD** Stand Upright Script (https://github.com/LioK251)
-
 For Executors : loadstring(game:HttpGet("https://raw.githubusercontent.com/DanceOfEternity/scripthub/main/"..game.PlaceId..".lua"))()
